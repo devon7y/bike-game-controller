@@ -1,0 +1,17 @@
+# Personal and local files, not part of the project
+videos/
+media/
+bike-controller-handoff.md
+placement_*.jpg
+
+# Created by the app at run time
+pc/settings.json
+pc/settings.tmp
+pc/calibration.json
+pc/calibration_sweep.npz
+pc/*.log
+app.log
+
+__pycache__/
+*.pyc
+.DS_Store

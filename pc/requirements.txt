@@ -1,0 +1,7 @@
+# Windows 10/11, 64-bit Python 3.11
+pyserial==3.5
+numpy==2.4.6
+bleak==3.0.2
+sv-ttk==2.6.1
+# vgamepad needs the ViGEmBus driver; see the README before installing it.
+vgamepad==0.1.0
